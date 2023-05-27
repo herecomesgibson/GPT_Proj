@@ -5,7 +5,7 @@ import json
 import requests
 
 
-#basic script for sending asking one off questions to chat gpt
+#basic script for  asking one off questions to chat gpt
 #Author: Gibson Olbrys
 
 #OPTIONS -s: specify conduct for the model e.g. you are a helpful assistant, send respnses as though you are a baby, etc(NOTE: only enter the specification for conduct, the script will prompt you to ask a question after)
